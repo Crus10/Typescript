@@ -1,2 +1,2 @@
-# Typescript
+# Aprendiendo Typescript
 Aprendiendo typescript
